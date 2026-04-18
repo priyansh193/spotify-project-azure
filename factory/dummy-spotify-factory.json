@@ -1,0 +1,9 @@
+{
+	"name": "dummy-spotify-factory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "afbb6181-e9e1-462a-af5d-7f0344225775",
+		"tenantId": "941dfcb2-54c6-451e-b94d-ce38abfe896b"
+	}
+}
