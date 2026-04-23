@@ -1,0 +1,12 @@
+{
+	"name": "HttpGithubLinkService",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/priyansh193/spotify-project-azure/refs/heads/main/loop_input",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
